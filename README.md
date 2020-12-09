@@ -6,3 +6,5 @@ Features are:
 * Drawing paths and shapes in SwiftUI
 * Making custom shapes
 * Even Odd fill concepts
+* ``drawingGroup`` modifier
+
