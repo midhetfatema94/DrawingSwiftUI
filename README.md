@@ -7,5 +7,5 @@ Features are:
 * Making custom shapes
 * Even Odd fill concepts
 * ``drawingGroup`` modifier
-* Animating shapes with ``animatableData``
+* Animating shapes with ``animatableData`` & ``AnimatablePair``
 
