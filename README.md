@@ -8,4 +8,5 @@ Features are:
 * Even Odd fill concepts
 * ``drawingGroup`` modifier
 * Animating shapes with ``animatableData`` & ``AnimatablePair``
+* Making Spirographs
 
